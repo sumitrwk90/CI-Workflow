@@ -29,5 +29,5 @@ jobs:
 
       - name: Run tests
         run: |
-          flake8 example.py-/825
+          flake8 example.py
                 
